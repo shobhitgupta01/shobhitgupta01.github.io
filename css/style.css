@@ -20,3 +20,8 @@
 .intro-jumbotron{
   height: 600px;;
 }
+
+#particles-js{
+  height: 500px;
+  background: white;
+}
